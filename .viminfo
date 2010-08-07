@@ -60,18 +60,22 @@
 	s
 
 # File marks:
-'0  1  0  ~/.vimrc
-'1  72  0  ~/.viminfo
-'2  10  0  /usr/local/Cellar/mysql/5.1.49/ChangeLog
-'3  1  0  ~/bin/ll.out
-'4  5  0  ~/.gitignore
-'5  2  62  ~/bin/opf
-'6  1  0  ~/.gitconfig
-'7  1  0  ~/.gitignore
-'8  6  0  ~/.gitignore
-'9  7  22  ~/gitignore
+'0  8  10  ~/.gitignore
+'1  2  0  ~/bin/bindump.hs
+'2  1  0  ~/.vimrc
+'3  72  0  ~/.viminfo
+'4  10  0  /usr/local/Cellar/mysql/5.1.49/ChangeLog
+'5  1  0  ~/bin/ll.out
+'6  5  0  ~/.gitignore
+'7  2  62  ~/bin/opf
+'8  1  0  ~/.gitconfig
+'9  1  0  ~/.gitignore
 
 # Jumplist (newest first):
+-'  8  10  ~/.gitignore
+-'  1  0  ~/.gitignore
+-'  2  0  ~/bin/bindump.hs
+-'  1  0  ~/bin/bindump.hs
 -'  1  0  ~/.vimrc
 -'  72  0  ~/.viminfo
 -'  1  0  ~/.viminfo
@@ -79,7 +83,6 @@
 -'  1  0  /usr/local/Cellar/mysql/5.1.49/ChangeLog
 -'  1  0  ~/bin/ll.out
 -'  5  0  ~/.gitignore
--'  1  0  ~/.gitignore
 -'  2  62  ~/bin/opf
 -'  1  0  ~/bin/opf
 -'  1  0  ~/.gitconfig
@@ -168,11 +171,35 @@
 -'  1  0  /usr/local/Cellar/fish/1.23.1/share/fish/functions/cd.fish
 -'  15  0  /usr/local/Cellar/fish/1.23.1/share/fish/functions/date.fish
 -'  1  0  /usr/local/Cellar/fish/1.23.1/share/fish/functions/date.fish
--'  7  19  /usr/local/Cellar/fish/1.23.1/share/fish/functions/date.fish
--'  6  0  /usr/local/Cellar/fish/1.23.1/share/fish/functions/pwd.fish
--'  1  0  /usr/local/Cellar/fish/1.23.1/share/fish/functions/pwd.fish
 
 # History of marks within files (newest to oldest):
+
+> ~/.gitignore
+	"	8	10
+	^	8	11
+	.	8	6
+	+	2	0
+	+	4	0
+	+	2	0
+	+	4	0
+	+	9	0
+	+	6	9
+	+	1	0
+	+	2	0
+	+	6	12
+	+	6	0
+	+	6	0
+	+	4	4
+	+	1	0
+	+	7	5
+	+	8	6
+
+> ~/bin/bindump.hs
+	"	2	0
+	^	2	0
+	.	1	9
+	+	1	9
+	a	1	0
 
 > ~/.vimrc
 	"	1	0
@@ -185,24 +212,6 @@
 
 > ~/bin/ll.out
 	"	1	0
-
-> ~/.gitignore
-	"	5	0
-	^	4	5
-	.	1	0
-	+	2	0
-	+	4	0
-	+	2	0
-	+	4	0
-	+	8	0
-	+	6	9
-	+	1	0
-	+	2	0
-	+	6	12
-	+	6	0
-	+	6	0
-	+	4	4
-	+	1	0
 
 > ~/bin/opf
 	"	2	62
