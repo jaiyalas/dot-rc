@@ -17,6 +17,8 @@ set -x PATH ~/bin
 set -x PATH /bin $PATH
 set -x PATH /sbin $PATH
 set -x PATH /usr/bin $PATH
+set -x PATH /usr/lib $PATH
+set -x PATH /usr/include $PATH
 set -x PATH /usr/sbin $PATH
 set -x PATH /usr/X11R6/bin $PATH
 set -x PATH /usr/local/bin $PATH
