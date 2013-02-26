@@ -1,18 +1,5 @@
 # dot-rc
 
-* My system config on 
-  * Mac OS X 10.7.5
+  * Discarded since 26 Feb 2013
+  * Migrated to https://github.com/jaiyalas/eatoolbox
 
-## Newest updated Date
-
-  * 2013/02/26
-
-### Additional Information
-
-  * used vimrc, as my vim setting, from
-    * [https://github.com/rueshyna/vimrc]
-
-## History
-
-  * System: Mac OS X 10.6.4
-  * Updated on: 2010/08/02
